@@ -25,7 +25,7 @@ The API will be available at `http://localhost:5000`.
 ## Running Tests
 
 ```bash
-pytest tests/ -v --cov=app
+python -m pytest tests/ -v
 ```
 
 ---
