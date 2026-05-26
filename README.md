@@ -28,12 +28,5 @@ The API will be available at `http://localhost:5000`.
 pytest tests/ -v --cov=app
 ```
 
-## Running the Build Script
-
-```bash
-chmod +x build.sh
-./build.sh
-```
-
 ---
 *This app is used as the sample project for the Jenkins CI/CD practice lab.*
